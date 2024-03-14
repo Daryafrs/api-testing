@@ -7,5 +7,5 @@
 
 2) Using the following <a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">WSDL</a>, I created a working collection in Postman that can be used to determine: a full country information, country currency and country language information: 
  <ul>
-<li> <a href="https://www.postman.com/warped-shuttle-505474/workspace/soap/collection/31687214-bcb14ac1-411c-4399-929f-4b727aae37cc?action=share&creator=31687214">Postamn collection: SOAP</a>   </li>
+<li> <a href="https://www.postman.com/warped-shuttle-505474/workspace/soap/collection/31687214-bcb14ac1-411c-4399-929f-4b727aae37cc?action=share&creator=31687214">Postman collection: SOAP</a>   </li>
 </ul>
